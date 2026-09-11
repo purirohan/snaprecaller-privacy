@@ -68,4 +68,4 @@ If this policy changes, the updated version will be posted at this URL with a re
 
 Questions about this privacy policy can be sent to:
 
-**[ADD YOUR CONTACT EMAIL HERE]**
+**rohan@rohanspuri.com**
